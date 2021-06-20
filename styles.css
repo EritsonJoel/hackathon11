@@ -1,0 +1,15 @@
+.hi {
+  background: peru;
+  width: 300px;
+  height: 400px;
+}
+#cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.h {
+  width: 50%;
+  height: 200px;
+  border: 1px solid black;
+}
